@@ -10,6 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000)](https://statuesque-dasik-2ab0d5.netlify.app) to view it in your browser.
+https://statuesque-dasik-2ab0d5.netlify.app
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
